@@ -1,7 +1,7 @@
 
 ## 🚀 About Me  
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=974087" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PARTHP7.png" alt="Your Image Badge" />
 
 - 🔒 A cybersecurity enthusiast keen on exploring **CTFs** and **ethical hacking**.  
 - 📈 Fascinated by the world of **finance** and actively building projects around **algorithmic trading** and **portfolio management**.    
