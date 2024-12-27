@@ -1,6 +1,8 @@
 
 ## 🚀 About Me  
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=974087" style='border:none;'></iframe>
+
 - 🔒 A cybersecurity enthusiast keen on exploring **CTFs** and **ethical hacking**.  
 - 📈 Fascinated by the world of **finance** and actively building projects around **algorithmic trading** and **portfolio management**.    
 - 🧑‍🏫 Committed to fostering innovation and knowledge sharing as the **Technical Head of ACES (Association of Computer Engineering Students)**.  
