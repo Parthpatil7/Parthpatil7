@@ -1,7 +1,7 @@
 
 ## 🚀 About Me  
 
-<img src="https://github.com/Parthpatil7/Parthpatil7/blob/main/PARTHP7.png" alt="Your Image Badge" />
+<img src="https://github.com/Parthpatil7/Parthpatil7/blob/main/PARTHP77.png" alt="Your Image Badge" />
 
 - 🔒 A cybersecurity enthusiast keen on exploring **CTFs** and **ethical hacking**.  
 - 📈 Fascinated by the world of **finance** and actively building projects around **algorithmic trading** and **portfolio management**.    
